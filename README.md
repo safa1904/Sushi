@@ -11,8 +11,9 @@
 [![License](https://img.shields.io/github/license/safa1904/Sushi?color=dddddd&labelColor=000000)](https://github.com/safa1904/Sushi/blob/master/LICENSE)
 [![Top Language](https://img.shields.io/github/languages/top/safa1904/Sushi?logo=github&logoColor=%23007ACC&label=CSS)](https://www.Csslang.org/)
 [![Contributors](https://img.shields.io/github/contributors/safa1904/Sushi?style=flat&color=orange&label=Contributors)](https://github.com/safa1904/Sushi/graphs/contributors)
- </div>
- ## 🌐 Live Demo
+</div>
+
+## 🌐 Live Demo
 
 Explore the live demonstration of the project:
 [Sushi website](https://www.websushi.online/)
