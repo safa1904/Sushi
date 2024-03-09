@@ -13,6 +13,39 @@
 [![Contributors](https://img.shields.io/github/contributors/safa1904/Sushi?style=flat&color=orange&label=Contributors)](https://github.com/safa1904/Sushi/graphs/contributors)
  </div>
 
+## ✨ Technologies Used
+
+<details><summary><b> Sushi website </b> is built using the following technologies:</summary>
+
+
+- [Vite](https://vitejs.dev/)
+- [React.js](https://reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [ESLint](https://eslint.org/)
+
+</details><br/>
+
+[![Technologies Used](https://skillicons.dev/icons?i=vite,react,threejs,tailwind)](https://skillicons.dev)
+
+## 💎 Acknowledgements
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Three.js](https://threejs.org/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
+- [React Parallax Tilt](https://www.npmjs.com/package/react-parallax-tilt)
+- [EmailJS](https://www.emailjs.com/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [Vercel](https://vercel.com/)
+- [JavaScript Mastery](https://www.jsmastery.pro/)
+
+## 📋 License
+
+**Three.js 3D Portfolio** is open source software
+[licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
+[LICENSE](https://github.com/safa1904/Sushi/blob/master/LICENSE) for more details.
 
 
 
